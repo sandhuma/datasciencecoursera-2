@@ -2,8 +2,8 @@
 
 ## Dataset information
 
-The dataset has 180 records (30 participants and 6 activities) and 68 columns (Subject, Activity and 66 movements measurements) 
-Every record consist of information about one participant and one activity with mean and standard deviations from 66 movement measuremenets.
+* The dataset has 180 records (30 participants and 6 activities) and 68 columns (Subject, Activity and 66 movements measurements) 
+* Every record consist of information about one participant and one activity with mean and standard deviations from 66 movement measuremenets.
 
 ## Variable Units
 
