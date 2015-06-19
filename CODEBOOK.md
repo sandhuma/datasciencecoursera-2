@@ -7,15 +7,15 @@ Every record consist of information about one participant and one activity with 
 
 ## Variable Units
 
-* Column 1 - Subject has values from 1 to 30 and it represents ID of a participant
-* Column 2 - Activity has 1 of the following 6 string values:
-	*LAYING
-	*SITTING
-	*STANDING
-	*WALKING
-	*WALKING DOWNSTAIRS
-	*WALKING UPSTAIRS
-* Columns 3-68 - Movements measurements are normalized to a number in the range [0-1]
+* **Subject** (column 1) has values from 1 to 30 and it represents ID of a participant
+* **Activity** (column 2) has 1 of the following 6 string values:
+	* LAYING
+	* SITTING
+	* STANDING
+	* WALKING
+	* WALKING DOWNSTAIRS
+	* WALKING UPSTAIRS
+* **Movements measurements** (columns 3-68) are normalized to a number in the range [0-1]
 
 ## Variables
 
