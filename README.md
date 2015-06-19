@@ -14,7 +14,7 @@ library(dplyr) ##required for summarise_each() function
 ```
 
 
-##Download Data
+##Downloading Data
 
 Data for this project could be downloaded from the following link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -22,7 +22,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 After downloading the archive, unzip the archive into working directory.
 
 
-##Construct Tidy Data Set 
+##Processing Data and Creating Tidy Data Set 
 
 This project required us to create R script called run_analysis.R. The script performs the following steps:
 * reads test and train data and then merge them using rbind() function
